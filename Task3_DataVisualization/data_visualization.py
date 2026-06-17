@@ -2,7 +2,7 @@
 ============================================================
 CODEALPHA INTERNSHIP — TASK 3: DATA VISUALIZATION
 ============================================================
-Author     : [Your Name]
+Author     : [Nithin Varghese Kurian]
 Dataset    : books_cleaned.csv  (from Task 2)
 Libraries  : matplotlib, seaborn, pandas, numpy
 Description: Creates 8 publication-quality charts including
