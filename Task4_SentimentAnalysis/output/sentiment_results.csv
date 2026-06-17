@@ -1,0 +1,301 @@
+review_id,review_text,true_label,neg,neu,pos,compound,predicted_label
+0,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+1,Average read. Has its moments but overall nothing particularly memorable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+2,A big letdown. The cover and description promised so much more than delivered.,Negative,0.0,0.815,0.185,0.3612,Positive
+3,One of the best books I have ever read. The author's storytelling is truly exceptional.,Positive,0.0,0.628,0.372,0.7964,Positive
+4,The story was fine. A decent way to pass the time but nothing special.,Neutral,0.189,0.72,0.092,-0.3584,Negative
+5,A masterpiece! Beautifully written with incredible depth. Highly recommend to everyone.,Positive,0.0,0.391,0.609,0.8976,Positive
+6,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+7,Decent enough. Kept me mildly entertained but did not leave a lasting impact.,Neutral,0.0,0.765,0.235,0.2668,Positive
+8,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+9,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+10,A mixed bag. Some chapters were engaging while others felt unnecessary.,Neutral,0.0,0.789,0.211,0.34,Positive
+11,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+12,Hit and miss. Some chapters were genuinely good; others felt like filler.,Neutral,0.1,0.562,0.338,0.5859,Positive
+13,Would not recommend this to anyone. A poorly executed idea with weak writing.,Negative,0.334,0.666,0.0,-0.6136,Negative
+14,Heartwarming and inspiring. This book left me with a big smile on my face.,Positive,0.0,0.543,0.457,0.8126,Positive
+15,The book was okay. Some parts were interesting but others felt slow.,Neutral,0.0,0.752,0.248,0.3182,Positive
+16,Disjointed writing and a nonsensical conclusion. Very frustrating read.,Negative,0.478,0.522,0.0,-0.6697,Negative
+17,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+18,The characters were believable but the plot was a bit too predictable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+19,Heartwarming and inspiring. This book left me with a big smile on my face.,Positive,0.0,0.543,0.457,0.8126,Positive
+20,A mixed bag. Some chapters were engaging while others felt unnecessary.,Neutral,0.0,0.789,0.211,0.34,Positive
+21,What a wonderful book! The author has created something truly special here.,Positive,0.0,0.377,0.623,0.8908,Positive
+22,Complete waste of money. The story goes nowhere and the ending is unsatisfying.,Negative,0.189,0.811,0.0,-0.4215,Negative
+23,"Engaging, well-paced, and thought-provoking. One of my favourite reads this year.",Positive,0.0,0.806,0.194,0.34,Positive
+24,Fantastic read! The descriptions are vivid and the pacing is perfect throughout.,Positive,0.0,0.568,0.432,0.8221,Positive
+25,It had some nice ideas but the execution was only moderately successful.,Neutral,0.0,0.585,0.415,0.7964,Positive
+26,"Thoroughly enjoyed this. Smart, witty, and emotionally resonant. Great book.",Positive,0.0,0.386,0.614,0.9032,Positive
+27,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+28,Complete waste of money. The story goes nowhere and the ending is unsatisfying.,Negative,0.189,0.811,0.0,-0.4215,Negative
+29,Very disappointing. The plot was predictable and the characters were flat.,Negative,0.259,0.741,0.0,-0.5413,Negative
+30,Poor pacing and a confusing narrative. I struggled to finish this book.,Negative,0.514,0.486,0.0,-0.7506,Negative
+31,Failed to connect with any character. The story felt hollow and pointless.,Negative,0.231,0.769,0.0,-0.5106,Negative
+32,Captivating storytelling with rich imagery. A delightful and uplifting read.,Positive,0.0,0.486,0.514,0.8126,Positive
+33,What a wonderful book! The author has created something truly special here.,Positive,0.0,0.377,0.623,0.8908,Positive
+34,Failed to connect with any character. The story felt hollow and pointless.,Negative,0.231,0.769,0.0,-0.5106,Negative
+35,Would not recommend this to anyone. A poorly executed idea with weak writing.,Negative,0.334,0.666,0.0,-0.6136,Negative
+36,Phenomenal book. The author has a gift for storytelling. Definitely a favourite.,Positive,0.0,0.588,0.412,0.6808,Positive
+37,It had some nice ideas but the execution was only moderately successful.,Neutral,0.0,0.585,0.415,0.7964,Positive
+38,Couldn't get past chapter three. The writing style was tedious and hard to follow.,Negative,0.097,0.903,0.0,-0.1027,Negative
+39,Passable. The kind of book you read once and don't think much about.,Neutral,0.0,1.0,0.0,0.0,Neutral
+40,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+41,Badly written with too many clichés. Very hard to engage with the story.,Negative,0.275,0.573,0.153,-0.2799,Negative
+42,Disjointed writing and a nonsensical conclusion. Very frustrating read.,Negative,0.478,0.522,0.0,-0.6697,Negative
+43,Poor pacing and a confusing narrative. I struggled to finish this book.,Negative,0.514,0.486,0.0,-0.7506,Negative
+44,The writing was competent but the story lacked real depth or originality.,Neutral,0.0,0.87,0.13,0.1655,Positive
+45,What a wonderful book! The author has created something truly special here.,Positive,0.0,0.377,0.623,0.8908,Positive
+46,Heartwarming and inspiring. This book left me with a big smile on my face.,Positive,0.0,0.543,0.457,0.8126,Positive
+47,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+48,Okay for a light read. Not something I would enthusiastically recommend though.,Neutral,0.204,0.489,0.307,0.122,Positive
+49,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+50,Very disappointing. The plot was predictable and the characters were flat.,Negative,0.259,0.741,0.0,-0.5413,Negative
+51,A masterpiece! Beautifully written with incredible depth. Highly recommend to everyone.,Positive,0.0,0.391,0.609,0.8976,Positive
+52,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+53,Confusing structure with too many subplots that go nowhere. Disappointing.,Negative,0.152,0.639,0.21,0.1847,Positive
+54,Okay for a light read. Not something I would enthusiastically recommend though.,Neutral,0.204,0.489,0.307,0.122,Positive
+55,Phenomenal book. The author has a gift for storytelling. Definitely a favourite.,Positive,0.0,0.588,0.412,0.6808,Positive
+56,It was alright. Some good ideas that were only partially developed.,Neutral,0.0,0.647,0.353,0.5994,Positive
+57,"Loved every moment of this book. Fresh, original, and endlessly entertaining.",Positive,0.0,0.38,0.62,0.886,Positive
+58,Brilliant! A rare book that is both intellectually stimulating and emotionally rich.,Positive,0.0,0.35,0.65,0.9184,Positive
+59,"Brilliant pacing, compelling characters, and an unforgettable ending. Loved it.",Positive,0.0,0.422,0.578,0.8625,Positive
+60,Average read. Has its moments but overall nothing particularly memorable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+61,The characters were believable but the plot was a bit too predictable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+62,A big letdown. The cover and description promised so much more than delivered.,Negative,0.0,0.815,0.185,0.3612,Positive
+63,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+64,Confusing structure with too many subplots that go nowhere. Disappointing.,Negative,0.152,0.639,0.21,0.1847,Positive
+65,"Outstanding! The narrative is engaging, the characters feel real. Loved every page.",Positive,0.0,0.459,0.541,0.8908,Positive
+66,One of the best books I have ever read. The author's storytelling is truly exceptional.,Positive,0.0,0.628,0.372,0.7964,Positive
+67,Not terrible but not impressive either. A mostly forgettable experience.,Neutral,0.288,0.568,0.144,-0.4168,Negative
+68,Disjointed writing and a nonsensical conclusion. Very frustrating read.,Negative,0.478,0.522,0.0,-0.6697,Negative
+69,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+70,An unremarkable book. Pleasant enough but I won't be seeking out more by this author.,Neutral,0.0,0.858,0.142,0.2846,Positive
+71,Overlong and self-indulgent. The author needed to cut at least 100 pages.,Negative,0.16,0.84,0.0,-0.2732,Negative
+72,Neither here nor there. An average book with a few good scenes.,Neutral,0.0,0.775,0.225,0.4404,Positive
+73,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+74,I adored this novel. The plot twists were surprising yet perfectly logical.,Positive,0.0,0.38,0.62,0.886,Positive
+75,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+76,Disappointing from start to finish. Nothing redeemable about this book.,Negative,0.262,0.738,0.0,-0.4939,Negative
+77,Dull and unoriginal. Nothing in this book felt fresh or exciting at all.,Negative,0.148,0.549,0.302,0.4215,Positive
+78,Passable. The kind of book you read once and don't think much about.,Neutral,0.0,1.0,0.0,0.0,Neutral
+79,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+80,Would not recommend this to anyone. A poorly executed idea with weak writing.,Negative,0.334,0.666,0.0,-0.6136,Negative
+81,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+82,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+83,The hype was completely unjustified. This book is mediocre at best.,Negative,0.0,0.704,0.296,0.6369,Positive
+84,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+85,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+86,A mixed bag. Some chapters were engaging while others felt unnecessary.,Neutral,0.0,0.789,0.211,0.34,Positive
+87,Excellent book. The world-building is extraordinary and the plot is gripping.,Positive,0.0,0.73,0.27,0.5719,Positive
+88,A moderate read. The author has some talent but the execution was inconsistent.,Neutral,0.0,0.853,0.147,0.2263,Positive
+89,Okay for a light read. Not something I would enthusiastically recommend though.,Neutral,0.204,0.489,0.307,0.122,Positive
+90,"Flat, lifeless prose with no sense of urgency or tension. Very dull.",Negative,0.454,0.546,0.0,-0.7574,Negative
+91,Excellent book. The world-building is extraordinary and the plot is gripping.,Positive,0.0,0.73,0.27,0.5719,Positive
+92,Mediocre. Not the worst but certainly not among the best I have read.,Neutral,0.242,0.479,0.279,-0.0785,Negative
+93,Painfully slow plot and weak character development. Not recommended at all.,Negative,0.497,0.503,0.0,-0.784,Negative
+94,"Competent but uninspiring. The book did what it set out to do, just about.",Neutral,0.0,0.887,0.113,0.1655,Positive
+95,This book is a gem! Engrossing from the very first page. Highly recommended.,Positive,0.0,0.822,0.178,0.3367,Positive
+96,Average writing and an average story. Neither impressed nor disappointed me.,Neutral,0.343,0.657,0.0,-0.5724,Negative
+97,Badly written with too many clichés. Very hard to engage with the story.,Negative,0.275,0.573,0.153,-0.2799,Negative
+98,Painfully slow plot and weak character development. Not recommended at all.,Negative,0.497,0.503,0.0,-0.784,Negative
+99,"Loved every moment of this book. Fresh, original, and endlessly entertaining.",Positive,0.0,0.38,0.62,0.886,Positive
+100,Hard to follow and ultimately pointless. Didn't enjoy a single chapter.,Negative,0.335,0.665,0.0,-0.4639,Negative
+101,Failed to connect with any character. The story felt hollow and pointless.,Negative,0.231,0.769,0.0,-0.5106,Negative
+102,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+103,It was okay. Some interesting moments but nothing that left a lasting impression.,Neutral,0.0,0.614,0.386,0.5647,Positive
+104,"Terrible book. Lots of potential wasted on a messy, incoherent plot.",Negative,0.557,0.443,0.0,-0.8316,Negative
+105,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+106,Couldn't get past chapter three. The writing style was tedious and hard to follow.,Negative,0.097,0.903,0.0,-0.1027,Negative
+107,Heartwarming and inspiring. This book left me with a big smile on my face.,Positive,0.0,0.543,0.457,0.8126,Positive
+108,The writing is exquisite. Every sentence feels intentional and beautifully crafted.,Positive,0.0,0.643,0.357,0.6124,Positive
+109,Not bad but not great. Decent writing but the story didn't fully grab me.,Neutral,0.242,0.653,0.105,-0.5448,Negative
+110,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+111,Disappointing from start to finish. Nothing redeemable about this book.,Negative,0.262,0.738,0.0,-0.4939,Negative
+112,"Loved every moment of this book. Fresh, original, and endlessly entertaining.",Positive,0.0,0.38,0.62,0.886,Positive
+113,"Thoroughly enjoyed this. Smart, witty, and emotionally resonant. Great book.",Positive,0.0,0.386,0.614,0.9032,Positive
+114,Hard to follow and ultimately pointless. Didn't enjoy a single chapter.,Negative,0.335,0.665,0.0,-0.4639,Negative
+115,Okay for a light read. Not something I would enthusiastically recommend though.,Neutral,0.204,0.489,0.307,0.122,Positive
+116,The characters were believable but the plot was a bit too predictable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+117,Painfully slow plot and weak character development. Not recommended at all.,Negative,0.497,0.503,0.0,-0.784,Negative
+118,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+119,Mediocre. Not the worst but certainly not among the best I have read.,Neutral,0.242,0.479,0.279,-0.0785,Negative
+120,Neither here nor there. An average book with a few good scenes.,Neutral,0.0,0.775,0.225,0.4404,Positive
+121,Fantastic read! The descriptions are vivid and the pacing is perfect throughout.,Positive,0.0,0.568,0.432,0.8221,Positive
+122,This book is a gem! Engrossing from the very first page. Highly recommended.,Positive,0.0,0.822,0.178,0.3367,Positive
+123,Dull and unoriginal. Nothing in this book felt fresh or exciting at all.,Negative,0.148,0.549,0.302,0.4215,Positive
+124,The hype was completely unjustified. This book is mediocre at best.,Negative,0.0,0.704,0.296,0.6369,Positive
+125,The characters were believable but the plot was a bit too predictable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+126,Mediocre. Not the worst but certainly not among the best I have read.,Neutral,0.242,0.479,0.279,-0.0785,Negative
+127,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+128,The hype was completely unjustified. This book is mediocre at best.,Negative,0.0,0.704,0.296,0.6369,Positive
+129,Average read. Has its moments but overall nothing particularly memorable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+130,Fantastic read! The descriptions are vivid and the pacing is perfect throughout.,Positive,0.0,0.568,0.432,0.8221,Positive
+131,A big letdown. The cover and description promised so much more than delivered.,Negative,0.0,0.815,0.185,0.3612,Positive
+132,The story was fine. A decent way to pass the time but nothing special.,Neutral,0.189,0.72,0.092,-0.3584,Negative
+133,Absolutely loved this book! The characters were so well developed and the plot kept me hooked.,Positive,0.0,0.66,0.34,0.8034,Positive
+134,Mediocre. Not the worst but certainly not among the best I have read.,Neutral,0.242,0.479,0.279,-0.0785,Negative
+135,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+136,Hit and miss. Some chapters were genuinely good; others felt like filler.,Neutral,0.1,0.562,0.338,0.5859,Positive
+137,Very disappointing. The plot was predictable and the characters were flat.,Negative,0.259,0.741,0.0,-0.5413,Negative
+138,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+139,Disappointing from start to finish. Nothing redeemable about this book.,Negative,0.262,0.738,0.0,-0.4939,Negative
+140,Complete waste of money. The story goes nowhere and the ending is unsatisfying.,Negative,0.189,0.811,0.0,-0.4215,Negative
+141,"Competent but uninspiring. The book did what it set out to do, just about.",Neutral,0.0,0.887,0.113,0.1655,Positive
+142,The book was okay. Some parts were interesting but others felt slow.,Neutral,0.0,0.752,0.248,0.3182,Positive
+143,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+144,This book is a gem! Engrossing from the very first page. Highly recommended.,Positive,0.0,0.822,0.178,0.3367,Positive
+145,Decent enough. Kept me mildly entertained but did not leave a lasting impact.,Neutral,0.0,0.765,0.235,0.2668,Positive
+146,Perfect blend of mystery and emotion. Couldn't stop reading. Highly recommend!,Positive,0.0,0.48,0.52,0.8259,Positive
+147,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+148,Not bad but not great. Decent writing but the story didn't fully grab me.,Neutral,0.242,0.653,0.105,-0.5448,Negative
+149,"Engaging, well-paced, and thought-provoking. One of my favourite reads this year.",Positive,0.0,0.806,0.194,0.34,Positive
+150,Poor pacing and a confusing narrative. I struggled to finish this book.,Negative,0.514,0.486,0.0,-0.7506,Negative
+151,"Loved every moment of this book. Fresh, original, and endlessly entertaining.",Positive,0.0,0.38,0.62,0.886,Positive
+152,Couldn't put it down. Stayed up all night to finish it. Brilliant writing!,Positive,0.0,0.746,0.254,0.6239,Positive
+153,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+154,Couldn't get past chapter three. The writing style was tedious and hard to follow.,Negative,0.097,0.903,0.0,-0.1027,Negative
+155,Heartwarming and inspiring. This book left me with a big smile on my face.,Positive,0.0,0.543,0.457,0.8126,Positive
+156,Just okay. You could read it or skip it and not miss much either way.,Neutral,0.0,0.795,0.205,0.3278,Positive
+157,"Outstanding! The narrative is engaging, the characters feel real. Loved every page.",Positive,0.0,0.459,0.541,0.8908,Positive
+158,Hit and miss. Some chapters were genuinely good; others felt like filler.,Neutral,0.1,0.562,0.338,0.5859,Positive
+159,Decent enough. Kept me mildly entertained but did not leave a lasting impact.,Neutral,0.0,0.765,0.235,0.2668,Positive
+160,What a wonderful book! The author has created something truly special here.,Positive,0.0,0.377,0.623,0.8908,Positive
+161,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+162,Hit and miss. Some chapters were genuinely good; others felt like filler.,Neutral,0.1,0.562,0.338,0.5859,Positive
+163,Dull and unoriginal. Nothing in this book felt fresh or exciting at all.,Negative,0.148,0.549,0.302,0.4215,Positive
+164,Captivating storytelling with rich imagery. A delightful and uplifting read.,Positive,0.0,0.486,0.514,0.8126,Positive
+165,An unremarkable book. Pleasant enough but I won't be seeking out more by this author.,Neutral,0.0,0.858,0.142,0.2846,Positive
+166,It was alright. Some good ideas that were only partially developed.,Neutral,0.0,0.647,0.353,0.5994,Positive
+167,It had some nice ideas but the execution was only moderately successful.,Neutral,0.0,0.585,0.415,0.7964,Positive
+168,Brilliant! A rare book that is both intellectually stimulating and emotionally rich.,Positive,0.0,0.35,0.65,0.9184,Positive
+169,"Outstanding! The narrative is engaging, the characters feel real. Loved every page.",Positive,0.0,0.459,0.541,0.8908,Positive
+170,Overlong and self-indulgent. The author needed to cut at least 100 pages.,Negative,0.16,0.84,0.0,-0.2732,Negative
+171,It was okay. Some interesting moments but nothing that left a lasting impression.,Neutral,0.0,0.614,0.386,0.5647,Positive
+172,A big letdown. The cover and description promised so much more than delivered.,Negative,0.0,0.815,0.185,0.3612,Positive
+173,Poor pacing and a confusing narrative. I struggled to finish this book.,Negative,0.514,0.486,0.0,-0.7506,Negative
+174,A wonderful escape! Transports you to another world entirely. Five stars easily.,Positive,0.0,0.489,0.511,0.8103,Positive
+175,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+176,The book was okay. Some parts were interesting but others felt slow.,Neutral,0.0,0.752,0.248,0.3182,Positive
+177,A masterpiece! Beautifully written with incredible depth. Highly recommend to everyone.,Positive,0.0,0.391,0.609,0.8976,Positive
+178,It was alright. Some good ideas that were only partially developed.,Neutral,0.0,0.647,0.353,0.5994,Positive
+179,This book is a gem! Engrossing from the very first page. Highly recommended.,Positive,0.0,0.822,0.178,0.3367,Positive
+180,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+181,It had some nice ideas but the execution was only moderately successful.,Neutral,0.0,0.585,0.415,0.7964,Positive
+182,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+183,This book is a gem! Engrossing from the very first page. Highly recommended.,Positive,0.0,0.822,0.178,0.3367,Positive
+184,Disjointed writing and a nonsensical conclusion. Very frustrating read.,Negative,0.478,0.522,0.0,-0.6697,Negative
+185,An unremarkable book. Pleasant enough but I won't be seeking out more by this author.,Neutral,0.0,0.858,0.142,0.2846,Positive
+186,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+187,Disjointed writing and a nonsensical conclusion. Very frustrating read.,Negative,0.478,0.522,0.0,-0.6697,Negative
+188,Not bad but not great. Decent writing but the story didn't fully grab me.,Neutral,0.242,0.653,0.105,-0.5448,Negative
+189,Poor pacing and a confusing narrative. I struggled to finish this book.,Negative,0.514,0.486,0.0,-0.7506,Negative
+190,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+191,It was alright. Some good ideas that were only partially developed.,Neutral,0.0,0.647,0.353,0.5994,Positive
+192,Overlong and self-indulgent. The author needed to cut at least 100 pages.,Negative,0.16,0.84,0.0,-0.2732,Negative
+193,"Competent but uninspiring. The book did what it set out to do, just about.",Neutral,0.0,0.887,0.113,0.1655,Positive
+194,Decent enough. Kept me mildly entertained but did not leave a lasting impact.,Neutral,0.0,0.765,0.235,0.2668,Positive
+195,"Engaging, well-paced, and thought-provoking. One of my favourite reads this year.",Positive,0.0,0.806,0.194,0.34,Positive
+196,Dull and unoriginal. Nothing in this book felt fresh or exciting at all.,Negative,0.148,0.549,0.302,0.4215,Positive
+197,A moderate read. The author has some talent but the execution was inconsistent.,Neutral,0.0,0.853,0.147,0.2263,Positive
+198,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+199,A moderate read. The author has some talent but the execution was inconsistent.,Neutral,0.0,0.853,0.147,0.2263,Positive
+200,Average read. Has its moments but overall nothing particularly memorable.,Neutral,0.0,1.0,0.0,0.0,Neutral
+201,Not bad but not great. Decent writing but the story didn't fully grab me.,Neutral,0.242,0.653,0.105,-0.5448,Negative
+202,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+203,I adored this novel. The plot twists were surprising yet perfectly logical.,Positive,0.0,0.38,0.62,0.886,Positive
+204,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+205,"The worst book I have read this year. Dull, lifeless, and deeply boring.",Negative,0.511,0.489,0.0,-0.8553,Negative
+206,The characters are one-dimensional and the dialogue feels forced and unrealistic.,Negative,0.231,0.769,0.0,-0.4588,Negative
+207,It was okay. Some interesting moments but nothing that left a lasting impression.,Neutral,0.0,0.614,0.386,0.5647,Positive
+208,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+209,The characters are one-dimensional and the dialogue feels forced and unrealistic.,Negative,0.231,0.769,0.0,-0.4588,Negative
+210,Decent enough. Kept me mildly entertained but did not leave a lasting impact.,Neutral,0.0,0.765,0.235,0.2668,Positive
+211,It was okay. Some interesting moments but nothing that left a lasting impression.,Neutral,0.0,0.614,0.386,0.5647,Positive
+212,Hard to follow and ultimately pointless. Didn't enjoy a single chapter.,Negative,0.335,0.665,0.0,-0.4639,Negative
+213,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+214,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+215,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+216,"Brilliant pacing, compelling characters, and an unforgettable ending. Loved it.",Positive,0.0,0.422,0.578,0.8625,Positive
+217,Not terrible but not impressive either. A mostly forgettable experience.,Neutral,0.288,0.568,0.144,-0.4168,Negative
+218,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+219,Confusing structure with too many subplots that go nowhere. Disappointing.,Negative,0.152,0.639,0.21,0.1847,Positive
+220,It was alright. Some good ideas that were only partially developed.,Neutral,0.0,0.647,0.353,0.5994,Positive
+221,A moderate read. The author has some talent but the execution was inconsistent.,Neutral,0.0,0.853,0.147,0.2263,Positive
+222,It was alright. Some good ideas that were only partially developed.,Neutral,0.0,0.647,0.353,0.5994,Positive
+223,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+224,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+225,Captivating storytelling with rich imagery. A delightful and uplifting read.,Positive,0.0,0.486,0.514,0.8126,Positive
+226,Okay for a light read. Not something I would enthusiastically recommend though.,Neutral,0.204,0.489,0.307,0.122,Positive
+227,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+228,One of the best books I have ever read. The author's storytelling is truly exceptional.,Positive,0.0,0.628,0.372,0.7964,Positive
+229,Poor pacing and a confusing narrative. I struggled to finish this book.,Negative,0.514,0.486,0.0,-0.7506,Negative
+230,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+231,One of the best books I have ever read. The author's storytelling is truly exceptional.,Positive,0.0,0.628,0.372,0.7964,Positive
+232,Absolutely loved this book! The characters were so well developed and the plot kept me hooked.,Positive,0.0,0.66,0.34,0.8034,Positive
+233,Absolutely loved this book! The characters were so well developed and the plot kept me hooked.,Positive,0.0,0.66,0.34,0.8034,Positive
+234,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+235,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+236,This book changed my perspective on life. Deeply moving and wonderfully crafted.,Positive,0.0,0.725,0.275,0.6326,Positive
+237,Not bad but not great. Decent writing but the story didn't fully grab me.,Neutral,0.242,0.653,0.105,-0.5448,Negative
+238,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+239,One of the best books I have ever read. The author's storytelling is truly exceptional.,Positive,0.0,0.628,0.372,0.7964,Positive
+240,Not terrible but not impressive either. A mostly forgettable experience.,Neutral,0.288,0.568,0.144,-0.4168,Negative
+241,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+242,Would not recommend this to anyone. A poorly executed idea with weak writing.,Negative,0.334,0.666,0.0,-0.6136,Negative
+243,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+244,Would not recommend this to anyone. A poorly executed idea with weak writing.,Negative,0.334,0.666,0.0,-0.6136,Negative
+245,Average writing and an average story. Neither impressed nor disappointed me.,Neutral,0.343,0.657,0.0,-0.5724,Negative
+246,"Terrible book. Lots of potential wasted on a messy, incoherent plot.",Negative,0.557,0.443,0.0,-0.8316,Negative
+247,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+248,A masterpiece! Beautifully written with incredible depth. Highly recommend to everyone.,Positive,0.0,0.391,0.609,0.8976,Positive
+249,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+250,Couldn't get past chapter three. The writing style was tedious and hard to follow.,Negative,0.097,0.903,0.0,-0.1027,Negative
+251,The writing was competent but the story lacked real depth or originality.,Neutral,0.0,0.87,0.13,0.1655,Positive
+252,Captivating storytelling with rich imagery. A delightful and uplifting read.,Positive,0.0,0.486,0.514,0.8126,Positive
+253,A moderate read. The author has some talent but the execution was inconsistent.,Neutral,0.0,0.853,0.147,0.2263,Positive
+254,Brilliant! A rare book that is both intellectually stimulating and emotionally rich.,Positive,0.0,0.35,0.65,0.9184,Positive
+255,Expected so much more based on the reviews. Ended up being very boring.,Negative,0.178,0.822,0.0,-0.3804,Negative
+256,Neither here nor there. An average book with a few good scenes.,Neutral,0.0,0.775,0.225,0.4404,Positive
+257,"Loved every moment of this book. Fresh, original, and endlessly entertaining.",Positive,0.0,0.38,0.62,0.886,Positive
+258,A mixed bag. Some chapters were engaging while others felt unnecessary.,Neutral,0.0,0.789,0.211,0.34,Positive
+259,"Flat, lifeless prose with no sense of urgency or tension. Very dull.",Negative,0.454,0.546,0.0,-0.7574,Negative
+260,"Terrible book. Lots of potential wasted on a messy, incoherent plot.",Negative,0.557,0.443,0.0,-0.8316,Negative
+261,Badly written with too many clichés. Very hard to engage with the story.,Negative,0.275,0.573,0.153,-0.2799,Negative
+262,A big letdown. The cover and description promised so much more than delivered.,Negative,0.0,0.815,0.185,0.3612,Positive
+263,A mixed bag. Some chapters were engaging while others felt unnecessary.,Neutral,0.0,0.789,0.211,0.34,Positive
+264,Repetitive and lacking originality. The author needed a much stronger editor.,Negative,0.159,0.635,0.206,0.1531,Positive
+265,The characters are one-dimensional and the dialogue feels forced and unrealistic.,Negative,0.231,0.769,0.0,-0.4588,Negative
+266,It was okay. Some interesting moments but nothing that left a lasting impression.,Neutral,0.0,0.614,0.386,0.5647,Positive
+267,Absolutely loved this book! The characters were so well developed and the plot kept me hooked.,Positive,0.0,0.66,0.34,0.8034,Positive
+268,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+269,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+270,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+271,Couldn't get past chapter three. The writing style was tedious and hard to follow.,Negative,0.097,0.903,0.0,-0.1027,Negative
+272,"Competent but uninspiring. The book did what it set out to do, just about.",Neutral,0.0,0.887,0.113,0.1655,Positive
+273,Fairly standard in terms of plot. Readable but not remarkable.,Neutral,0.302,0.698,0.0,-0.5975,Negative
+274,Hard to follow and ultimately pointless. Didn't enjoy a single chapter.,Negative,0.335,0.665,0.0,-0.4639,Negative
+275,Loved the depth of the characters. The story is both moving and inspiring.,Positive,0.0,0.621,0.379,0.7717,Positive
+276,Absolutely loved this book! The characters were so well developed and the plot kept me hooked.,Positive,0.0,0.66,0.34,0.8034,Positive
+277,Just okay. You could read it or skip it and not miss much either way.,Neutral,0.0,0.795,0.205,0.3278,Positive
+278,One of the best books I have ever read. The author's storytelling is truly exceptional.,Positive,0.0,0.628,0.372,0.7964,Positive
+279,Perfect blend of mystery and emotion. Couldn't stop reading. Highly recommend!,Positive,0.0,0.48,0.52,0.8259,Positive
+280,Disjointed writing and a nonsensical conclusion. Very frustrating read.,Negative,0.478,0.522,0.0,-0.6697,Negative
+281,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+282,The writing was competent but the story lacked real depth or originality.,Neutral,0.0,0.87,0.13,0.1655,Positive
+283,Failed to connect with any character. The story felt hollow and pointless.,Negative,0.231,0.769,0.0,-0.5106,Negative
+284,Superb writing! Every chapter left me wanting more. An absolute must-read.,Positive,0.0,0.695,0.305,0.6588,Positive
+285,Hard to follow and ultimately pointless. Didn't enjoy a single chapter.,Negative,0.335,0.665,0.0,-0.4639,Negative
+286,Not worth reading. The author spends too much time on irrelevant details.,Negative,0.132,0.868,0.0,-0.1695,Negative
+287,Complete waste of money. The story goes nowhere and the ending is unsatisfying.,Negative,0.189,0.811,0.0,-0.4215,Negative
+288,Excellent book. The world-building is extraordinary and the plot is gripping.,Positive,0.0,0.73,0.27,0.5719,Positive
+289,"Dreadful pacing. Took forever to get anywhere, and the payoff was not worth it.",Negative,0.276,0.724,0.0,-0.5523,Negative
+290,"The worst book I have read this year. Dull, lifeless, and deeply boring.",Negative,0.511,0.489,0.0,-0.8553,Negative
+291,"Thoroughly enjoyed this. Smart, witty, and emotionally resonant. Great book.",Positive,0.0,0.386,0.614,0.9032,Positive
+292,The writing is exquisite. Every sentence feels intentional and beautifully crafted.,Positive,0.0,0.643,0.357,0.6124,Positive
+293,A passable story with forgettable characters. Exactly what you'd expect.,Neutral,0.0,1.0,0.0,0.0,Neutral
+294,"Incredible journey from start to finish. Emotional, thought-provoking, and beautiful.",Positive,0.0,0.593,0.407,0.6705,Positive
+295,Not terrible but not impressive either. A mostly forgettable experience.,Neutral,0.288,0.568,0.144,-0.4168,Negative
+296,A big letdown. The cover and description promised so much more than delivered.,Negative,0.0,0.815,0.185,0.3612,Positive
+297,Excellent book. The world-building is extraordinary and the plot is gripping.,Positive,0.0,0.73,0.27,0.5719,Positive
+298,Not terrible but not impressive either. A mostly forgettable experience.,Neutral,0.288,0.568,0.144,-0.4168,Negative
+299,Perfect blend of mystery and emotion. Couldn't stop reading. Highly recommend!,Positive,0.0,0.48,0.52,0.8259,Positive
