@@ -2,7 +2,7 @@
 ============================================================
 CODEALPHA INTERNSHIP — TASK 1: WEB SCRAPING
 ============================================================
-Author     : [Your Name]
+Author     : [Nithin Varghese Kurian]
 Tool       : Python (requests, BeautifulSoup, pandas)
 Source     : https://books.toscrape.com  (legal practice site)
 Description: Scrapes book titles, prices, ratings, and
