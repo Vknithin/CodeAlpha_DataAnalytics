@@ -2,7 +2,7 @@
 ============================================================
 CODEALPHA INTERNSHIP — TASK 4: SENTIMENT ANALYSIS
 ============================================================
-Author     : [Your Name]
+Author     : [Nithin Varghese Kurian]
 Dataset    : Sample Amazon-style book reviews (built-in)
 Libraries  : nltk (VADER), pandas, matplotlib, seaborn,
              wordcloud, collections
